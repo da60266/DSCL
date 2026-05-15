@@ -6,4 +6,4 @@ Official repository for paper "Semi-Supervised Gaze Estimation via Disentangled 
 Coming soon...
 
 ## Contact
-Feel free to contact us at [tanqida@stu.scu.edu.cn](mailto:tanqida@stu.scu.edu.cn) for questions or suggestions.
+Feel free to contact us at [tanqida@stu.scu.edu.cn](mailto:tanqida@stu.scu.edu.cn).
